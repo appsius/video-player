@@ -72,4 +72,8 @@ h1 {
 	.controls {
 		width: 90%;
 	}
+
+	h1 {
+		font-size: 30px;
+	}
 }
